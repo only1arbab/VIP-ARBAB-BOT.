@@ -1,11 +1,11 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "XAiKO TANViR",
   "version": "2.0.0",
-  "language": "en",
+  "language": "Bn",
   "DeveloperMode": false,
   "autoCreateDB": true,
   "autoClean": true,
-  "allowInbox": false,
+  "allowInbox": true,
   "notiGroup": true,
   "NOTIFICATION": true,
   "EMAIL": "your email",
@@ -21,7 +21,7 @@
     "100044713412032"
   ],
   "NDH": ["100044713412032"],
-  "adminOnly": false,
+  "adminOnly": true,
   "ndhOnly": false,
   "adminPaOnly": false,
 
